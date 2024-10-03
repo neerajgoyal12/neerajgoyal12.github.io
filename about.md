@@ -4,7 +4,7 @@ permalink: /about.html
 
 ✉️ [neerajgoyal12@gmail.com](mailto:neerajgoyal12@gmail.com) &nbsp;&nbsp; 📞 [+91 88894 88860](tel:+918889488860) &nbsp;&nbsp; 🏠 [Bangalore, India](https://goo.gl/maps/iaamjgcBvFhMauYG6) &nbsp;&nbsp; [Github](https://github.com/neerajgoyal12) &nbsp;&nbsp; [LinkedIn](https://in.linkedin.com/in/neerajgoyal)
 
-10+ years experience as Developer, Sr Software Engineer, Team Leader, Engineering Manager
+10+ years experience as Developer, Sr Software Engineer, Team Leader, Engineering Manager.
 Technical focus areas include iOS, Mac Appilications, AI/ML, Django, Python, PyTorch
 
 ## Education
