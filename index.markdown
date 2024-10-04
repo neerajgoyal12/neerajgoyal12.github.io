@@ -63,4 +63,7 @@ Technical focus areas include iOS, Mac Appilications, AI/ML, Django, Python, PyT
   .site-footer {
     display: none;
   }
+  /* .page-link {
+    display: none;
+  } */
 </style>
